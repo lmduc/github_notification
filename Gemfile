@@ -8,10 +8,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'haml-rails'
 
-gem 'unicorn'
-
-# Authentication
-gem 'devise'
+gem 'thin'
 
 group :development, :test do
   gem 'web-console', '~> 2.0'
