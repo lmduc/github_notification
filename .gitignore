@@ -17,3 +17,6 @@
 /tmp
 .ruby-version
 .rbenv-gemsets
+.DS_Store
+ngrok
+
